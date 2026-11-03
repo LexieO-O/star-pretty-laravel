@@ -122,5 +122,5 @@ Acesse **http://localhost:8000** 🩷
 
 <p align="center">
   Feito com 🩷 por <b>Alexandra Z.</b><br>
-  <sub>Técnico em Análise e Desenvolvimento de Sistemas — FAI Centro Universitário de Adamantina</sub>
+  <sub>Tecnologia em Análise e Desenvolvimento de Sistemas — FAI Centro Universitário de Adamantina</sub>
 </p>
