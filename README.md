@@ -35,7 +35,7 @@ Itens, quantidades, subtotais e total. Cada item pode ser removido.
 </p>
 
 ### Produtos (CRUD)
-Cadastro com upload de imagem, validação com mensagens em português e listagem com exclusão.
+Cadastro com upload de imagem, validação com mensagens e listagem com exclusão.
 
 <p align="center">
   <img src="docs/img/produtos.jpg" alt="Página de produtos" width="900">
